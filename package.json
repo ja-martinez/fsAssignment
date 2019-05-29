@@ -1,0 +1,19 @@
+{
+  "name": "fsassignment",
+  "version": "1.0.0",
+  "description": "fs docs - https://nodejs.org/api/fs.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ja-martinez/fsAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ja-martinez/fsAssignment/issues"
+  },
+  "homepage": "https://github.com/ja-martinez/fsAssignment#readme"
+}
